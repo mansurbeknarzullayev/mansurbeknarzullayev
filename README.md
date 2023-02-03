@@ -9,4 +9,4 @@ I am Mansurbek Narzullayev Software Engineer.
 - 😄 Pronouns: Mansurbek
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansurbeknarzullayev&layout=compact&theme=vision-friendly-dark)](https://github.com/mansurbeknarzullayev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansurbeknarzullayev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats
