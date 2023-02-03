@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mansurbek Narzullayev Software Engineer.
+I am Mansurbek Narzullayev, a software engineer.
 
 - 🔭 I’m currently working on TassVision and SamSMU
 - 🌱 I’m currently learning NLP and Computer Vision
