@@ -8,4 +8,4 @@ I am Mansurbek Narzullayev Software Engineer.
 - 📫 How to reach me: [Telegram](https://t.me/mansurbeknarzullayev), [Linkedin](https://www.linkedin.com/in/mansurbeknarzullayev/)
 - 😄 Pronouns: Mansurbek
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mansurbeknarzullayev&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansurbeknarzullayev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
