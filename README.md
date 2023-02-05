@@ -4,5 +4,5 @@ I am Mansurbek Narzullayev, a software engineer.
 
 - 🔭 I’m currently working on TassVision and SamSMU
 - 🌱 I’m currently learning NLP and Computer Vision
-- 💬 Ask me about C/C++, Python
+- 💬 Ask me about C++, Python
 - 📫 How to reach me: [Telegram](https://t.me/mansurbeknarzullayev), [Linkedin](https://www.linkedin.com/in/mansurbeknarzullayev/)
